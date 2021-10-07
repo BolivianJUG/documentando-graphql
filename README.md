@@ -15,4 +15,4 @@ Para volver a ver el evento haz click en la imagen:
  
   
 ## Recursos 
-- Para ver los slides de la charla de Lili sigue este [enlace.](source/slides.pdf)
+- Para ver los slides de la charla de Lili sigue este [enlace.](source/Documentando APIS de GraphQL.pdf)
